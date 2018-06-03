@@ -54,7 +54,7 @@ hr {
 }
 
 a:hover {
-    background-color:#3D5B47;
+    background-color:#377873;
     cursor: pointer;
 }
 
@@ -131,7 +131,7 @@ ol {
 }
 
  a:hover {
-    background-color: #3D5B47;
+    background-color: #377873;
     color: #fffff3;
     border: none;
     cursor: pointer;
