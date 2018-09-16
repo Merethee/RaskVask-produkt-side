@@ -4,4 +4,4 @@
 
 Her er min produkt side for RaskVask desktop applikasjonen. 
 
-Denne er laget i forbindelse med en skoleoppgave. 
+Denne er laget i forbindelse med en skoleoppgave mai - juni 2018
